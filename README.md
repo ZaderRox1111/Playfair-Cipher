@@ -3,7 +3,7 @@ Encrypt and decrypt messages using the playfair cipher.
 
 
 
-Zach Derrick zcd22@nau.edu, Alex Anderson amt646@nau.edu
+Zach Derrick zcd22@nau.edu
 # Understanding the Problem
 The goal of this lab is to create a program that can encrypt and decrypt a
 sentence using a keyword and the Playfair cipher.
